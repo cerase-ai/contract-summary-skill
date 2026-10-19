@@ -1,0 +1,9 @@
+# Registry display text in the platform's other locales.
+#
+# The base fields -- SKILL.md's `description` and cerase.json's -- are the SOURCE
+# locale and are English; package_translations forbids a row for it, so this file
+# can only ever hold the others. It is registry metadata: the seeder keeps it out
+# of the bundle that ships to the agent.
+it:
+  display_name: "Sintesi dei contratti"
+  description: "Usa quando la persona manda, allega o nomina un contratto o un accordo (fornitura, servizi, locazione, agenzia, licenza, riservatezza, condizioni generali) e chiede cosa dice, la sua sintesi, le sue date o scadenze, o cosa deve fare ciascuna parte. Legge tutto il testo e scrive una sola sintesi in cui ogni punto cita la sua clausola: le parti e l'oggetto, la durata con rinnovo e disdetta, una tabella delle date con cosa succede in ciascuna, gli obblighi di ogni parte, i soldi e come si pagano, come finisce, responsabilità, riservatezza ed esclusiva, la legge applicabile, e cosa manca o è insolito. Non dà un parere legale e non cambia nulla; un promemoria di una data viene programmato solo quando la persona lo chiede, e aspetta la sua approvazione."

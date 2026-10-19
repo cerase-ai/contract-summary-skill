@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "namespace": "studio.guidance",
+  "name": "contract-summary",
+  "type": "skill",
+  "display_name": "Contract summary",
+  "description": "Use when the person sends, attaches or names a contract or agreement (a supply, service, lease, agency, licence or non-disclosure agreement, general terms) and asks what it says, for its summary, its dates or deadlines, or what each party must do. It reads the whole text and writes one summary in which every point cites its clause: the parties and the object, the duration with renewal and notice, a table of the dates with what happens on each, each party's obligations, the money and how it is paid, how it ends, liability, confidentiality and exclusivity, the governing law, and what is missing or unusual. It gives no legal opinion, and changes nothing; a reminder of a date is scheduled only when the person asks for it, and waits for their approval.",
+  "license": "MIT"
+}
